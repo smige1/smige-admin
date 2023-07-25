@@ -3,7 +3,7 @@ export default authMiddleware({
   publicRoutes: [
     "/api/a4cdf241-45b8-4309-9126-cec6707574fc", 
     "/api/a4cdf241-45b8-4309-9126-cec6707574fc/categories",
-    "https://smige-admin-9pq3.vercel.app/api/a4cdf241-45b8-4309-9126-cec6707574fc/billboards",
+    "/api/a4cdf241-45b8-4309-9126-cec6707574fc/billboards",
     "/api/a4cdf241-45b8-4309-9126-cec6707574fc/sizes",
     "/api/a4cdf241-45b8-4309-9126-cec6707574fc/colors",
     "/api/a4cdf241-45b8-4309-9126-cec6707574fc/products",
